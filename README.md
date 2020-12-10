@@ -35,4 +35,4 @@ Reemplazar `directorio-del-proyecto` por la ubicacion donde se encuentra el proy
 [Crear virtual host en linux](https://www.digitalocean.com/community/tutorials/como-configurar-virtual-host-de-apache-en-ubuntu-14-04-lts-es)
 
 ### Paso 4
-Abrir un navegador e ir a la direccion http://sistema-contable
+Abrir un navegador e ir a la direccion http:servieconomia.com/contabilidad
